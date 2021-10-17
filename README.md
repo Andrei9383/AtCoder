@@ -1,11 +1,9 @@
-Submissions
-======================
-> *Auto-generated with ❤ using [Harwest](https://github.com/nileshsah/harwest-tool)*
+## Profile
+<img src="https://i.imgur.com/Q1gjD0Z.png" width="100" height="100" align=left>
 
-## Introduction
+**Username:** &nbsp;Andrei9383
 
-A repository to keep track of problem solving practice, containing solutions from platforms:
-* AtCoder &nbsp; [![AtCoder](https://run.kaist.ac.kr/badges/atcoder/Andrei9383.svg)](https://atcoder.jp/users/Andrei9383)
+**Rating:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3
 
 
 ## Contents
