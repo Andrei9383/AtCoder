@@ -3,7 +3,7 @@
 
 **Username:** &nbsp;Andrei9383
 
-**Rating:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3
+**Rating:** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;UNRATED
 
 
 ## Contents
